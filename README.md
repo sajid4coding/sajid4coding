@@ -1,7 +1,7 @@
 <img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="Sajal Islam Sajid">
 <h1 align="center">Hi 👋, I'm Sajid</h1>
 <h3 align="center">Web Application Developer</h3>
-<img height="350px" margin-top="20px" align="right" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w911" alt="Sajal Islam Sajid">
+<img height="350px"  align="right" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w911" alt="Sajal Islam Sajid">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid4coding&label=Profile%20views&color=0e75b6&style=flat" alt="sajid4coding" /> </p>
 
