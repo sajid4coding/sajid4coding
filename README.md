@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/sajid4coding" target="blank"><img src="https://img.shields.io/twitter/follow/sajid4coding?logo=twitter&style=for-the-badge" alt="sajid4coding" /></a> </p>
 
-- 🔭 I’m currently working on [Fiverr](fiverr.com/iamshajid)
+- 🔭 I’m currently working on **Laravel**
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on [GitHub](github.com/sajid4coding)
-
-- 👨‍💻 All of my projects are available at [fiverr.com/iamshajid](fiverr.com/iamshajid)
+- 👯 I’m looking to collaborate on **GitHub**
 
 - 💬 Ask me about **PHP, MySQL, Laravel and WordPress**
 
