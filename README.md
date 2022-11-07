@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/110894919/200335481-3672ec8d-b4e7-4da5-8541-4193be238833.png)
 
 <h1 align="center">Hi 👋, I'm Sajid</h1>
-<h3 align="center">Web Application Developer</h3>
+<h3 align="center">Backend PHP with Laravel Framework Developer & Expert in WordPress</h3>
 <img height="350px" margin-top="20px" margin-bottom="20px" align="right" src="https://i.pinimg.com/originals/bc/bc/bc/bcbcbc82af6091ad057fb9274259bc7d.gif" alt="Sajal Islam Sajid">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid4coding&label=Profile%20views&color=0e75b6&style=flat" alt="sajid4coding" /> </p>
