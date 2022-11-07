@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGaos9N1sjrVw/profile-displaybackgroundimage-shrink_350_1400/0/1659982666318?e=1673481600&v=beta&t=oxep5bJ3-OFfx7diRX8-bxGBYc2fjGqfFeUsgS6SDDo" alt="Sajal Islam Sajid">
+![image](https://user-images.githubusercontent.com/110894919/200335481-3672ec8d-b4e7-4da5-8541-4193be238833.png)
 
 <h1 align="center">Hi 👋, I'm Sajid</h1>
 <h3 align="center">Web Application Developer</h3>
