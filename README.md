@@ -4,9 +4,7 @@
 <h3 align="center">Backend PHP with Laravel Framework Developer & Expert in WordPress</h3>
 <img height="350px" margin-top="20px" margin-bottom="20px" align="right" src="https://i.pinimg.com/originals/bc/bc/bc/bcbcbc82af6091ad057fb9274259bc7d.gif" alt="Sajal Islam Sajid">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid4coding&label=Profile%20views&color=0e75b6&style=flat" alt="sajid4coding" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sajid4coding" target="blank"><img src="https://img.shields.io/twitter/follow/sajid4coding?logo=twitter&style=for-the-badge" alt="sajid4coding" /></a> </p>
+<img src="https://img.shields.io/twitter/follow/sajid4coding?logo=twitter&style=for-the-badge" alt="sajid4coding" /></a> </p>
 
 - 🔭 I’m currently working on **Fiverr**
 
@@ -36,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajid4coding&show_icons=true&locale=en" alt="sajid4coding" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid4coding&" alt="sajid4coding" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid4coding&label=Profile%20views&color=0e75b6&style=flat" alt="sajid4coding" /> </p>
+
+<p align="left"> <a href="https://twitter.com/sajid4coding" target="blank">
