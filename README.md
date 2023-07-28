@@ -1,18 +1,18 @@
 ![image](https://user-images.githubusercontent.com/110894919/200335481-3672ec8d-b4e7-4da5-8541-4193be238833.png)
 
 <h1 align="center">Hi 👋, I'm Sajid</h1>
-<h3 align="center">Backend PHP with Laravel Framework Developer & Expert in WordPress</h3>
+<h3 align="center">Web Application Developer</h3>
 <img height="350px" margin-top="20px" margin-bottom="20px" align="right" src="https://i.pinimg.com/originals/bc/bc/bc/bcbcbc82af6091ad057fb9274259bc7d.gif" alt="Sajal Islam Sajid">
 
 
 
 - 🔭 I’m currently working on **Fiverr**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Vue3**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 💬 Ask me about **PHP, MySQL, Laravel and WordPress**
+- 💬 Ask me about **PHP, MySQL, Laravel, Vue, and WordPress**
 
 - 📫 How to reach me **sajalislamsajid@gmail.com**
 
